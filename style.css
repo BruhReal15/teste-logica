@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(72, 142, 233);
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+tr:hover {
+    background-color: #f1d6d6;
+}
+
+input{
+    width: 30px;
+    height: 15px;
+    text-align: center;
+}
